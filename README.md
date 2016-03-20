@@ -15,6 +15,8 @@ We have identified two data sets from www.data.gov.
 There are 2 data sets, which talk about the different aspects of the States of the US.  
 The column “State” is common in both the data sets. We have combined the state column of both the data sets. 
 
+
+
 -----
 Files
 -----
@@ -29,6 +31,22 @@ Below is the reference link
 -----------
 Data format
 -----------
+
+
+-----------
+Research question
+-----------
+
+
+-----------
+Analysis (Descriptive/Exploratory)
+-----------
+
+
+-----------
+Conclusions
+-----------
+
 
 ------- 
 License
