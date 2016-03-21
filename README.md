@@ -97,7 +97,8 @@ References
    
        - The original data set from www.data.gov 
        
-       1. http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c
+1. http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c
+
 2. http://catalog.data.gov/dataset/choose-maryland-compare-states-demographics
 
        
