@@ -37,11 +37,12 @@ The data is combined using R script. The combined data output is in the CSV form
 •	Quality_Of_Life_By_State.csv
 •	Combined_Data_Set.csv 
 
-VP. Rajath , G. Hitesh (2016, May 20). Data Set for Linking Maryland wellbeing with income, 
- Retrieved from https://github.com/rajathpanta/INFM600/
+VP. Rajath , G. Hitesh (2016, May 20). Data Set for Linking Maryland wellbeing with income, Retrieved from https://github.com/rajathpanta/INFM600/
 -----------
 Research question
 -----------
+There are two different data sets. One talks about the well-being of the various states and the other talks about the demographics. An interesting question tries to link the various aspecs of demographics with the well-being of a state. We have tried to achieve the same with the below question.
+
 Is there a defenitive relation ship between wellbeing-index and House Hold income ?
 
 -----------
@@ -76,9 +77,13 @@ License
 	The data in the INFM600 repository is distributed under a Creative Commons 
 	Attribution-NonCommercial-ShareAlike 4.0 International License (see 
 	http://creativecommons.org/licenses/by-nc-sa/4.0/).
+	
+	The data contained in the original datasets [Quality_of_life_By_State.csv, Demographics_By_State.csv ] was  
+	 distributed with permission of Data.gov.The data is made available for non-commercial use. Those interested in using the data in a commercial context should contact datagov@gsa.gov with their queries.
+
    
-        The data is made available for non-commercial use. Those interested in using the data 
-   	in a commercial context should contact www.data.gov
+        The combined data set [ Combined_Data_set.csv]  is made available for non-commercial use. Those interested in using the data 
+   	in a commercial context should contact the owners VP. Rajath and G. Hitesh
 
 ----------------
 
@@ -91,9 +96,10 @@ References
    When using this dataset you should cite:
    
        - The original data set from www.data.gov 
-
-
-
+       
+When using the combined data set you should cite:
+   - The combined data set from 
+https://github.com/rajathpanta/INFM600
 -------
 Credits
 -------
