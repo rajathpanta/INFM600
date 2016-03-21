@@ -96,16 +96,17 @@ References
 
    When using this dataset you should cite:
    
-       - The original data set from www.data.gov 
+       - The original data set from www.data.gov . Below is the complete reference
        
-1. http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c
+1. Data Catalog. (n.d.). Retrieved March 21, 2016, from http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c
 
-2. http://catalog.data.gov/dataset/choose-maryland-compare-states-demographics
+2. Data Catalog. (n.d.). Retrieved March 21, 2016, from http://catalog.data.gov/dataset/choose-maryland-compare-states-demographics
+
 
        
 When using the combined data set you should cite:
    - The combined data set from 
-1. https://github.com/rajathpanta/INFM600
+1. Rajathpanta/INFM600. (n.d.). Retrieved March 21, 2016, from https://github.com/rajathpanta/INFM600/blob/master/Combined_Data_Set.csv
 -------
 Credits
 -------
