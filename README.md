@@ -19,7 +19,9 @@ The column “State” is common in both the data sets. We have combined the sta
 Files
 -----
 There are 2 data sets. Below is the detail for the two data sets-
+
 1.	Quality of Life by State - The quality of life is measured by parameters like Number of America’s Byways, Number of national parks, Number of national historic landmarks, National Register of Historic Places Listings, State Arts Agency Appropriations Per Capita, Percent of Households with Broadband Internet, Arts, Entertainment, Sports and Media Employment per 1000, Well-Being Index and Total Professionally Active Physicians per 1000 Population. 
+
 2.	Demographics by State- The demographics is measured by parameters like Total Population, 2015, Total Population, 2010, Total Population, 2000, Population Change, 2000-2010 (%),Median Age, Population Density per Square Mile, Median Household Income ($ Dollars), Per Capita Personal Income ($ Dollars), Poverty Rate (%)
 Below is the reference link
 
@@ -29,7 +31,7 @@ Below is the reference link
 -----------
 Data format
 -----------
-The data is combined using R script. The combined data is in the CSV format.
+The data is combined using R script. The combined data output is in the CSV format.
 
 •	Demographics_By_State.csv
 •	Quality_Of_Life_By_State.csv
@@ -52,6 +54,8 @@ After the merge command you need to run the write.csv method to write the merged
 
 The idea of analyzing the dataset is to find out if there is significant relationship between the well- being index of a state and the median household income. We are willing to find out if the well-being index of a state increases will there be an increase in the median household income. 
 
+* The R script is included in the attachment.
+
 -----------
 Conclusions
 -----------
@@ -62,11 +66,9 @@ Alternate Hypothesis (HA): There is a correlation between Well-Being Index and H
 P-value = 0.0006138
 Correlation Coefficient: 0.46
 
-
-*The detailed analysis and visualizations are available as attachments 
-
 Conclusion: We reject the null hypothesis as p value is less than the significance level (0.05, 0.01) and also the correlation coefficient is 0.46 which is greater than zero, hence there is a positive correlation between the variables. For every unit of increase in the Well-being index there is 0.46 units of increase in the Median Household income. 
 
+*The detailed analysis and visualizations are available as attachments 
 ------- 
 License
 -------
