@@ -1,4 +1,4 @@
-# INFM600
+﻿# INFM600
 This is the dataset created for the INFM600 Information Discovery and Analysis
 
 -------
@@ -70,6 +70,10 @@ Correlation Coefficient: 0.46
 
 Conclusion: We reject the null hypothesis as p value is less than the significance level (0.05, 0.01) and also the correlation coefficient is 0.46 which is greater than zero, hence there is a positive correlation between the variables. For every unit of increase in the Well-being index there is 0.46 units of increase in the Median Household income. 
 
+https://github.com/rajathpanta/INFM600/blob/master/Bar_Graph.png
+https://github.com/rajathpanta/INFM600/blob/master/Analysis_Snapshot_R.jpg
+https://github.com/rajathpanta/INFM600/blob/master/Visualization1.jpg
+https://github.com/rajathpanta/INFM600/blob/master/Visualization2.jpg
 *The detailed analysis and visualizations are available as attachments 
 ------- 
 License
