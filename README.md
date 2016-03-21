@@ -55,6 +55,7 @@ You need to change the directory path as per your location of the path containin
 After the merge command you need to run the write.csv method to write the merged dataset to a csv file. 
 
 The idea of analyzing the dataset is to find out if there is significant relationship between the well- being index of a state and the median household income. We are willing to find out if the well-being index of a state increases will there be an increase in the median household income. 
+![alt tag](https://github.com/rajathpanta/INFM600/blob/master/Bar_Graph.png)
 
 * The R script is included in the attachment.
 
@@ -64,14 +65,13 @@ Conclusions
 We applied the correlation test in R to check if the relationship exists between the Well-being index and the median household income of a state in the United States. 
 Null Hypothesis (H0): There is no correlation between Well-Being Index and Household Income. 
 Alternate Hypothesis (HA): There is a correlation between Well-Being Index and Household Income.
+![alt tag](https://github.com/rajathpanta/INFM600/blob/master/Analysis_Snapshot_R.jpg)
 
 P-value = 0.0006138
 Correlation Coefficient: 0.46
 
 Conclusion: We reject the null hypothesis as p value is less than the significance level (0.05, 0.01) and also the correlation coefficient is 0.46 which is greater than zero, hence there is a positive correlation between the variables. For every unit of increase in the Well-being index there is 0.46 units of increase in the Median Household income. 
 
-![alt tag](https://github.com/rajathpanta/INFM600/blob/master/Bar_Graph.png)
-![alt tag](https://github.com/rajathpanta/INFM600/blob/master/Analysis_Snapshot_R.jpg)
 ![alt tag](https://github.com/rajathpanta/INFM600/blob/master/Visualization1.jpg)
 ![alt tag](https://github.com/rajathpanta/INFM600/blob/master/Visualization2.jpg)
 *The detailed analysis and visualizations are available as attachments 
