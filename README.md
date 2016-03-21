@@ -25,8 +25,8 @@ There are 2 data sets. Below is the detail for the two data sets-
 2.	Demographics by State- The demographics is measured by parameters like Total Population, 2015, Total Population, 2010, Total Population, 2000, Population Change, 2000-2010 (%),Median Age, Population Density per Square Mile, Median Household Income ($ Dollars), Per Capita Personal Income ($ Dollars), Poverty Rate (%)
 Below is the reference link
 
-1.	http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c
-2.	http://catalog.data.gov/dataset/choose-maryland-compare-states-demographics
+1. http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c
+2. http://catalog.data.gov/dataset/choose-maryland-compare-states-demographics
 
 -----------
 Data format
