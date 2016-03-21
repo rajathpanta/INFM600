@@ -61,6 +61,7 @@ Alternate Hypothesis (HA): There is a correlation between Well-Being Index and H
 
 P-value = 0.0006138
 Correlation Coefficient: 0.46
+*The detailed analysis and visualizations are available as attachments 
 
 Conclusion: We reject the null hypothesis as p value is less than the significance level (0.05, 0.01) and also the correlation coefficient is 0.46 which is greater than zero, hence there is a positive correlation between the variables. For every unit of increase in the Well-being index there is 0.46 units of increase in the Median Household income. 
 
@@ -90,8 +91,7 @@ References
    
        - The original data set from www.data.gov 
 
-   @inproceeding
-   } 
+
 
 -------
 Credits
