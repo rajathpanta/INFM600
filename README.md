@@ -37,8 +37,7 @@ The data is combined using R script. The combined data output is in the CSV form
 •	Quality_Of_Life_By_State.csv
 •	Combined_Data_Set.csv 
 
-VP. Rajath , G. Hitesh (2016, May 20). Data Set for Linking Maryland wellbeing with income, Retrieved from 
-1. https://github.com/rajathpanta/INFM600/
+VP. Rajath , G. Hitesh (2016, May 20). Data Set for Linking Maryland wellbeing with income, Retrieved from https://github.com/rajathpanta/INFM600/
 -----------
 Research question
 -----------
@@ -110,7 +109,7 @@ References
        
 When using the combined data set you should cite:
    - The combined data set from 
-1. Rajathpanta/INFM600. (n.d.). Retrieved March 21, 2016, from https://github.com/rajathpanta/INFM600/blob/master/Combined_Data_Set.csv
+VP. Rajath , G. Hitesh (2016, May 20). Data Set for Linking Maryland wellbeing with income, Retrieved from https://github.com/rajathpanta/INFM600/
 -------
 Credits
 -------
