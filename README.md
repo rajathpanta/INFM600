@@ -41,7 +41,7 @@ VP. Rajath , G. Hitesh (2016, May 20). Data Set for Linking Maryland wellbeing w
 -----------
 Research question
 -----------
-There are two different data sets. One talks about the well-being of the various states and the other talks about the demographics. An interesting question tries to link the various aspecs of demographics with the well-being of a state. We have tried to achieve the same with the below question.
+There are two different data sets. One talks about the well-being of the various states and the other talks about the demographics. An interesting question tries to link the various aspects of demographics with the well-being of a state. We have tried to achieve the same with the below question.
 
 Is there a defenitive relation ship between wellbeing-index and House Hold income ?
 
